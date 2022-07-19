@@ -1,0 +1,5 @@
+.gsc-comment-box:not(.gsc-comment-box-is-reply) {
+ border-radius:.25rem;
+ border-width:3px;
+ margin-top:1rem
+}
